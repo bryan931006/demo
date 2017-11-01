@@ -1,0 +1,54 @@
+[
+{
+"_id": "59f8a9b2bb6001d1581a03e2",
+"id": 1,
+"name": "Bryan",
+"apellido": "Delgado"
+},
+{
+"_id": "59f8a9edbb6001d1581a03e3",
+"id": 2,
+"name": "Johan",
+"apellido": "Sanchez"
+},
+{
+"_id": "59f8aa0bbb6001d1581a03e4",
+"id": 3,
+"name": "Vladimir",
+"apellido": "Mena"
+},
+{
+"_id": "59f8aa22bb6001d1581a03e5",
+"id": 4,
+"name": "Leonardo",
+"apellido": "Parra"
+},
+{
+"_id": "59f8db440704701c5811ab6b",
+"__v": 0
+},
+{
+"_id": "59f8db4c0704701c5811ab6c",
+"__v": 0
+},
+{
+"_id": "59f8db570704701c5811ab6d",
+"__v": 0
+},
+{
+"_id": "59f8dbb90704701c5811ab6e",
+"__v": 0
+},
+{
+"_id": "59f8e666854e3316fce4d2ee",
+"__v": 0
+},
+{
+"_id": "59f8e6f3854e3316fce4d2ef",
+"__v": 0
+},
+{
+"_id": "59f8e7d3854e3316fce4d2f0",
+"__v": 0
+}
+]
